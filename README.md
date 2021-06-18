@@ -1,11 +1,6 @@
 # smake - a C project sources compile manager
 
 
-## project structure
-
-* /src  - `c source directory`
-
-
 
 ## basic usage
 
