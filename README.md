@@ -1,4 +1,4 @@
-# smake - a C project sources compile manager
+# smake - a C project source compile manager
 
 
 
